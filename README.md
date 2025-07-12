@@ -1,4 +1,23 @@
-# Configuração do Ambiente - Análise Exploratória de Grafos
+# Análise Exploratória de Grafos - T1
+
+Este projeto apresenta uma análise exploratória completa de diferentes tipos de redes/grafos para o curso de Mineração em Grafos da Unifor.
+
+## 🚀 Quick Start
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/SEU_USUARIO/analise-exploratoria-grafos.git
+cd analise-exploratoria-grafos
+
+# 2. Configure o ambiente
+uv sync
+
+# 3. Configure o kernel do Jupyter
+uv run python -m ipykernel install --user --name=analise-grafos --display-name="Python 3.11 - Análise de Grafos"
+
+# 4. Execute o notebook
+uv run jupyter notebook
+```
 
 ## Ambiente Python
 - **Versão**: Python 3.11.10
