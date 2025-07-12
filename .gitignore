@@ -30,6 +30,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.mineração-grafos-T1/
 
 # IDEs
 .vscode/
